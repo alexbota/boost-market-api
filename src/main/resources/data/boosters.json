@@ -1,0 +1,47 @@
+[
+  {
+    "name": "LancerX",
+    "profile_pic": "profile-lancerx.png",
+    "vip": true,
+    "rating": 5,
+    "reviews_count": 36,
+    "countries": ["uk", "sweden", "germany"],
+    "display_characters": ["entity_1.png", "entity_2.png", "entity_3.png", "entity_4.png", "entity_5.png"]
+  },
+  {
+    "name": "Petrosin",
+    "profile_pic": "profile-petrosin.png",
+    "vip": true,
+    "rating": 4.8,
+    "reviews_count": 85,
+    "countries": ["germany"],
+    "display_characters": ["entity_2.png", "entity_3.png", "entity_4.png"]
+  },
+  {
+    "name": "Killer Queen",
+    "profile_pic": "profile-killerqueen.png",
+    "vip": true,
+    "rating": 5,
+    "reviews_count": 67,
+    "countries": ["sweden", "germany"],
+    "display_characters": ["entity_1.png", "entity_2.png", "entity_3.png", "entity_4.png", "entity_5.png"]
+  },
+  {
+    "name": "Poppinchuk",
+    "profile_pic": "profile-poppinchuk.png",
+    "vip": false,
+    "rating": 4.9,
+    "reviews_count": 42,
+    "countries": ["uk", "germany"],
+    "display_characters": ["entity_1.png", "entity_2.png", "entity_3.png", "entity_5.png"]
+  },
+  {
+    "name": "PippoLippo",
+    "profile_pic": "profile-pippo.png",
+    "vip": false,
+    "rating": 4.7,
+    "reviews_count": 36,
+    "countries": ["uk", "sweden", "france"],
+    "display_characters": ["entity_1.png", "entity_2.png"]
+  }
+]
